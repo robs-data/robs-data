@@ -61,7 +61,8 @@ Minha meta é evoluir de Analista de Dados para Especialista em BI e futuramente
 Vamos transformar dados em decisões estratégicas.
 </p>
 
- <img src="https://raw.githubusercontent.com/ItsRobiOficial/ItsRobiOficial/output/snake.svg" alt="Snake animation" />
+<p align="center">
+ <img src="https://raw.githubusercontent.com/robs-data/robs-data/output/snake.svg" alt="Snake animation" />
 
 ###
-
+</p>
