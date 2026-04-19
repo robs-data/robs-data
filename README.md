@@ -13,18 +13,15 @@
 
 ---
 
-## 💡 Sobre Mim
+## 👨‍💻 Sobre Mim
 
-🎓 Graduando em Ciência de Dados com foco em Análise de Dados e Business Intelligence.  
-Minha abordagem é prática e orientada a resultado: transformo dados brutos em decisões estratégicas.
+💡 Dados sem decisão são apenas números. Meu foco é gerar impacto real.
 
-📊 Atuo desde:
-- Tratamento e modelagem de dados (SQL Server)
-- Análise exploratória (Python)
-- Construção de dashboards estratégicos (Power BI)
-- Geração de insights para aumento de receita
+🎓 Estudante de Ciência de Dados
+📊 Atuação prática com análise, modelagem e visualização de dados
+💼 Experiência no setor comercial → visão estratégica de negócio
 
-💼 Diferencial: Experiência prática na área comercial, o que me permite unir **dados + visão de negócio + performance de vendas**.
+🔥 Diferencial: uno análise de dados com performance de vendas e tomada de decisão.
 
 ---
 
@@ -41,28 +38,58 @@ Minha abordagem é prática e orientada a resultado: transformo dados brutos em 
 
 ---
 
-## 🎯 Evolução Profissional
+## 📊 Projeto em Destaque
+🔹 Análise de Eventos (Power BI)
 
-Minha meta é evoluir de Analista de Dados para Especialista em BI e futuramente Cientista de Dados, dominando:
+<p align="center">
+  <img width="1437" height="805" alt="image" src="https://github.com/user-attachments/assets/8e1b6128-1125-479a-ba25-cd719e5780cf" />
+</p>
 
-✔ Estatística aplicada a negócios  
-✔ Modelagem de dados escalável  
-✔ Automação de análises com Python  
-✔ Integração de dados em Cloud  
-✔ Machine Learning voltado para performance comercial  
+**Desafio:**  
+Analisar dados de eventos para identificar os principais fatores que impactam o faturamento e gerar insights para tomada de decisão.
 
+**Solução:**  
+Desenvolvimento de um pipeline de dados com tratamento em Python, modelagem e criação de views analíticas no SQL Server e construção de dashboard no Power BI.
+
+**Resultado:**  
+Identificação de padrões como concentração de receita em poucos clientes, sazonalidade dos eventos e categorias mais lucrativas, permitindo direcionar estratégias para aumento de receita.
+
+<p align="center">
+<a href="[SEU_LINK_AQUI](https://app.powerbi.com/view?r=eyJrIjoiNjliZmY1OTAtMWE3ZS00MjdlLWJiZmItOTA3OTVhOWRjMjVlIiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9)">
+  <img src="https://img.shields.io/badge/Ver%20Análise%20Completa-0A66C2?style=for-the-badge&logo=powerbi&logoColor=white"/>
+</a>
+</p>
+
+## 🎯 Roadmap Profissional
+
+🚀 Construindo uma carreira sólida em Dados com foco em base técnica + aplicação em negócios.
+
+---
+
+📌 Foco atual:
+
+🗄️ SQL e Banco de Dados → consultas avançadas, modelagem e performance  
+🎓 Formação em Ciência de Dados  
+📊 Projetos práticos em análise e visualização de dados  
+
+---
+
+🔜 Em evolução:
+
+🐍 Python para análise e automação  
+📈 Estatística aplicada a negócios  
+📊 Business Intelligence avançado  
+
+---
+
+🎯 Objetivo final:
+
+🚀 Atuar como Cientista de Dados, utilizando dados para gerar impacto estratégico e financeiro.
 ---
 
 <p align="center">
 
 
-📩 Sempre aberto a oportunidades e projetos na área de Dados e Business Intelligence.
+## ⚡ Filosofia
 
-Vamos transformar dados em decisões estratégicas.
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/robs-data/robs-data/output/github-snake.svg" />
-</p>
-
-###
+"Dados só têm valor quando geram decisão."
